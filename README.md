@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut je suis Registre , je suis un jeune developpeur , j apprends aussi dans les autres domaines comme la cybersec , le reseau etc 
 
 <!--
 **registredsc/registredsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
