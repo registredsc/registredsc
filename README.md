@@ -5,7 +5,11 @@
 ![cropped-1600-900-811898](https://cdn.discordapp.com/attachments/974016474421276732/1046895972216754236/unknown.png)
 
 
-
+<p align="center">
+<a href="https://discord.gg/springfr">
+<img src="https://lanyard.cnrad.dev/api/903298304220229653?hideTimestamp=false&hideBadges=false&idleMessage=Work%20on%20Discord%20SpringTeam">
+</a>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=registredsc&theme=material-palenight&locale=fr&ring=8C0FA9)](https://git.io/streak-stats)
 
