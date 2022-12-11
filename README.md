@@ -43,7 +43,7 @@
 
 ## **Pour me contacter:**
 
-> https://discord.gg/cybertech <br></br>
+> https://discord.gg/springfr <br></br>
 > https://discord.gg/ypaTKWGJbw <br></br>
 > Mon tag: 𝕯.Registre Ø𝒛ā𝒌ī 蛇#0001
 
