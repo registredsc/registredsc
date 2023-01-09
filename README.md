@@ -43,7 +43,5 @@
 
 ## **Pour me contacter:**
 
-> https://discord.gg/springfr <br></br>
-> https://discord.gg/ypaTKWGJbw <br></br>
-> Mon tag: 𝕯.Registre Ø𝒛ā𝒌ī 蛇#0001
+> Mon tag: 𝕯.Registre. 蛇#0001
 
